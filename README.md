@@ -138,6 +138,8 @@ prompt-reasoning-at-scale/
 The easiest way to reproduce all experiments is via the provided Colab notebook, 
 which contains the complete pipeline from setup to evaluation in a single place.
 
+<a href="https://colab.research.google.com/github/Zainaansari/prompt-reasoning-at-scale/blob/main/experiments.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 The notebook covers:
 - Environment setup and dependency installation
 - HuggingFace authentication
